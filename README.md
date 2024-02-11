@@ -16,9 +16,9 @@ Ensure you have the required Python libraries installed. You can install them us
 <li>Results are visualized using 2D plots, 3D plots, elbow plots, silhouette plots, and distribution plots.</ol><br>
   
 ## Files
-<ol><li><a href="https://github.com/nikhil697/Clustering_Pycaret/blob/main/Clustering_pycaret.ipynb">clustering_pycaret.ipynb</a>: Jupyter notebook containing the clustering analysis script.
-  <li><a href="https://github.com/nikhil697/Clustering_Pycaret/blob/main/Mall_Customers.csv">Mall_Customers.csv</a>: Csv File containing dataset.
-<li><a href="https://github.com/nikhil697/Clustering_Pycaret/blob/main/kmeanprediction.csv">kmeanprediction.csv</a>: CSV file containing predictions from the K-Means clustering model.</ol>
+<ol><li><a href="https://github.com/AnadyaSahai8/clustering_assignment_102103021/blob/main/102103021_Clustering.ipynb">102103021_Clustering.ipynb</a>: Jupyter notebook containing the clustering analysis script.
+  <li><a href="https://github.com/AnadyaSahai8/clustering_assignment_102103021/blob/main/Mall_Customers.csv">Mall_Customers.csv</a>: Csv File containing dataset.
+<li><a href="https://github.com/AnadyaSahai8/clustering_assignment_102103021/blob/main/kmean_prediction.csv">kmean_prediction.csv</a>: CSV file containing predictions from the K-Means clustering model.</ol>
 
 ## Clustering Models Explored
 <ol><li>K-Means
